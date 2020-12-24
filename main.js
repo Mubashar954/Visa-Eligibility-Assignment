@@ -21,3 +21,11 @@ if(age>=60){
     console.log("You are not elegible to apply for visa")
     child = true;
 }
+
+let a ="3";
+let b = 2;
+let c = a + b;
+let d = a - b;
+console.log(c)
+console.log(d)
+
